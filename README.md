@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @koalamind
 - 👀 I do AI
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on AI
+- 🌱 I’m currently generating AI
+- 💞️ I’m alwaus looking to collaborate on AI
 - 📫 How to reach me ...your're here already ...so drop me a ping!
 
 <!---
